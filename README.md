@@ -1,3 +1,6 @@
+Setup:
+Run `npm install` before using
+
 Usage: 
 
 `node main.js [ip addresses to duplicate IR commands]`
